@@ -1,0 +1,88 @@
+
+
+    .big-banner {
+        background-image: url('../images/bannermobile.svg');
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+        height: 90vh;
+        width: 100%;
+        margin-left: 0;
+    
+    }
+    
+    .big-heading {
+        color: #fcf422;
+        font-family: 'Titillium Web', sans-serif;
+        font-weight: 700;
+        padding: 40rem 2rem 4rem 2rem;
+        font-size: 5rem;
+        line-height: 7rem;
+    }
+    
+    .download-button {
+        margin: 0% 2% 5% 0;
+        border-radius: 10px;
+        font-family: 'Titillium Web', sans-serif;
+        font-size: 3.5rem;
+        margin-top: 6rem;
+    
+    }
+    
+    .custom1 {
+        background-color: #fcf422;
+        color: black;
+    }
+    
+    .custom1:hover {
+        color: black;
+        background-color: white;
+    }
+    
+    .custom2 {
+        color: #fcf422;
+        border-color: #fcf422;
+    }
+    
+    .custom2:hover {
+        color: black;
+        background-color: white;
+        border-color: white;
+    }
+    
+    .navbar-custom {
+        background-color: black;
+        padding: 5% 10%;
+    }
+    
+    .nav-item {
+        font-family: 'Titillium Web', sans-serif;
+        padding: 0 2rem;
+    }
+    
+    .nav-item:last-child {
+        padding: 0 0rem 0 2rem;
+    }
+    
+    
+    .navbar-brand {
+        font-family: 'Titillium Web', sans-serif;
+        font-weight: 700;
+        font-size: 3rem;
+    }
+    
+    .navbar-toggler-icon {
+        width: 3rem;
+        height: 3rem;
+    }
+    
+    
+    .arrow{
+        color: #fcf422;
+        margin: 6rem auto;
+    }
+    
+    
+    
+    
+    
