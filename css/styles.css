@@ -257,5 +257,5 @@ footer {
 	padding-bottom: 3%;
 }
 .iconwhite {
-	color: white;
+	color: white !important!;
 }
